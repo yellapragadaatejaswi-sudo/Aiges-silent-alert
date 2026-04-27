@@ -1,0 +1,6 @@
+{
+  "name": "AIGES Silent Alert",
+  "description": "A stealth emergency system disguised as a fully functional calculator. Activate emergency mode with a hidden trigger.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
